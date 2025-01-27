@@ -7,3 +7,7 @@ You can also change the locations where the logs occur.
 It is coded to send you logs by e-mail every 30 minutes.
 
 
+!!!educational use only!!!
+I am not responsible for any data theft
+
+
